@@ -3,7 +3,7 @@ ec b0x00 #968282
 ec b0x7f #828c82
 ec b0xff #828296
 ec bin #7dfaff
-ec btext #fff9f9
+ec btext #c6ffcd
 ec call #e7a12e
 ec cjmp #c8e100
 ec cmp #faff00
