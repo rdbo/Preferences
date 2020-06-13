@@ -1,0 +1,67 @@
+#~angui.navbar.str #ff000000
+ec b0x00 #738699
+ec b0x7f #607070
+ec b0xff #abb0b6
+ec bin #5bedff
+ec btext #96ffdc
+ec call #ff6432
+ec cjmp #cbff50
+ec cmp #32ffaf
+ec comment #9696c8
+ec creg #ff7733
+ec crypto #0037da
+ec flag #66e6ff
+ec fline #55b4d4
+ec floc #3a96dd
+ec flow #afff32
+ec flow2 #ace6e6
+ec fname #ff6a00
+ec func_var #95e6cb
+ec func_var_addr #ff816e
+ec func_var_type #ffe58c
+ec graph.diff.match #767676
+ec graph.diff.new #c50f1f
+ec graph.diff.unknown #881798
+ec graph.diff.unmatch #c19c00
+ec graph.false #ff3232
+ec graph.true #afff32
+ec graph.trufae #55b4d4
+#~gui.alt_background #ff1c1f24
+#~gui.background #ff0e0e0e
+#~gui.border #ff646464
+#~gui.breakpoint_background #ffaf5f5f
+ec gui.cflow #c19c00
+#~gui.dataoffset #ffffffff
+#~gui.disass_selected #ff1f2228
+#~gui.imports #ff328cff
+#~gui.main #ff008000
+#~gui.navbar.code #ff82c86f
+#~gui.navbar.empty #ff646464
+#~gui.navbar.err #ff03aaf5
+#~gui.navbar.pc #ff42eef4
+#~gui.navbar.seek #ffe95656
+#~gui.navbar.sym #ffdda368
+#~gui.overview.border #3263dae8
+#~gui.overview.fill #28ffffff
+#~gui.overview.node #ff646464
+ec help #c2d94c
+#~highlightPC #ff571a07
+ec input #808080
+ec jmp #cbff50
+#~lineHighlight #96151d1d
+ec math #50d0e0
+ec mov #ffb950
+ec nop #a37acc
+ec num #ff1934
+ec offset #ff324b
+ec other #808080
+ec pop #5bedff
+ec push #5bedff
+ec reg #e6c8c8
+ec ret #ff5050
+ec swi #d06060
+ec trap #f06f6f
+ec ucall #ff6432
+ec ujmp #cbff50
+ec usrcmt #f06432
+#~wordHighlight #ff343a47
