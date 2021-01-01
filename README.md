@@ -1,4 +1,3 @@
-# Themes
-# r2cutter
+# Preferences
 
-![alt text](https://github.com/rdbo/Themes/blob/master/imgs/r2cutter_theme.PNG)
+Settings/Themes for random stuff
